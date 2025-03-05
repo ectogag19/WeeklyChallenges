@@ -1,0 +1,15 @@
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.deps.json
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.dll
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.sourcelink.json
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.dll
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.dll
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.pdb
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/georgegarcia/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.dll
