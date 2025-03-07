@@ -8,18 +8,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72cf0c0c-0b2c-4541-93d5-ccfecf01b637" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet01.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet01.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet02.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet02.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.ChallengesWithTestsMark8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ChallengesWithTestsMark8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Project.ChallengesWithTestsMark8">
+}</component>
+  <component name="RunManager">
     <configuration name="ChallengesWithTestsMark8" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -84,6 +95,10 @@
       <updated>1741133444189</updated>
       <workItem from="1741133447504" duration="630000" />
       <workItem from="1741135666053" duration="2499000" />
+      <workItem from="1741138417280" duration="889000" />
+      <workItem from="1741146543670" duration="1812000" />
+      <workItem from="1741148363344" duration="614000" />
+      <workItem from="1741305586366" duration="3700000" />
     </task>
     <servers />
   </component>
