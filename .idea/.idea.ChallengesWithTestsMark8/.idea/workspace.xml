@@ -8,6 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72cf0c0c-0b2c-4541-93d5-ccfecf01b637" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" afterDir="false" />
@@ -20,7 +21,8 @@
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet04.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet04.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet05.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet05.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet06.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/ChallengesSet06.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs" afterDir="false" />
@@ -101,6 +103,8 @@
       <workItem from="1741553019850" duration="233000" />
       <workItem from="1742313633082" duration="1815000" />
       <workItem from="1744689398243" duration="1860000" />
+      <workItem from="1748723526078" duration="435000" />
+      <workItem from="1748920229529" duration="2932000" />
     </task>
     <servers />
   </component>
